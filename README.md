@@ -24,7 +24,7 @@ Hi, I'm Anan Venkatesh. I'm a 3rd Year Computer Science student at the Universit
 # What Am I Working On?
 So, in the summer of 2020, I used a combination of lockdown slowdown and boredom to pick up Python, and joined up as a Backend developer on the student project **KoalaBot**. It's a Discord bot in Python to try and encompass the various needs of UK universities' student societies and communities, in an easy to use, all in one package. For more details, click the link below, or see us [here](https://koalabot.uk).
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KoalaBotUK&repo=KoalaBot&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgeboyo&repo=ldjam-51&theme=dark&count_private=true)](https://github.com/edgeboyo/ldjam-51)
 #
 Most other stuff here is generally quite small - I don't really have any other massive things I'm working on. 
 Most of my stuff is private by nature, it's usually small, scrappy little tools that were just picking up various little things and playing around with them. I can work with C#, Java, Python, C and Haskell, and am currently trying to learn some frontend skills to back those up.
