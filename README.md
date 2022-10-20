@@ -31,3 +31,7 @@ Most of my stuff is private by nature, it's usually small, scrappy little tools 
 
 # Social Media/Contact
 Hi. This section is empty. For a while. Sorry.
+
+# Profile
+This profile was made using the below project.  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
