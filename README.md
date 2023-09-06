@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Unknownlocal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unknownlocal&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Who Am I?
-Hi, I'm Anan Venkatesh. I'm a 4th Year Computer Science student at the University of Southampton. Might also have great skill in writing incredibly bad code, but who knows?
+Hi, I'm Anan Venkatesh. I'm a MEng Computer Science graduate from the University of Southampton. Might also have great skill in writing incredibly bad code, but who knows?
 # What Am I Working On?
 So, in the summer of 2020, I used a combination of lockdown slowdown and boredom to pick up Python, and joined up as a Backend developer on the student project **KoalaBot**. It's a Discord bot in Python to try and encompass the various needs of UK universities' student societies and communities, in an easy to use, all in one package. For more details, click the link below, or see us [here](https://koalabot.uk).
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KoalaBotUK&repo=KoalaBot&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
