@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # Unknownlocal
 <img height="360" width="360" align="left" src="https://avatars.githubusercontent.com/u/16153800?v=4"/>
 
+<!--
 [![Unknownlocal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unknownlocal&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 # Who Am I?
 Hi, I'm Anan Venkatesh. I'm a software developer currently based in Southampton, UK, with an MEng in Computer Science from the University of Southampton. Might also have great skill in writing incredibly bad code, but who knows?
@@ -32,6 +34,8 @@ Most of my stuff is private by nature, it's usually small, scrappy little tools 
 # Social Media/Contact
 Hi. This section is empty. I don't plan to change that anytime soon. Sorry.
 
+<!--
 # Profile
 This profile was made using the below project.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+-->
