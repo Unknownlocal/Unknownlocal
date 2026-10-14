@@ -28,10 +28,11 @@ As for stuff you can see...
 
 So, in the summer of 2020, I used a combination of lockdown slowdown and boredom to pick up Python, and joined up as a Backend developer on the student project **KoalaBot**. It's a Discord bot in Python to try and encompass the various needs of UK universities' student societies and communities, in an easy to use, all in one package. For more details, click the link below, or see us [here](https://koalabot.uk).
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KoalaBotUK&repo=KoalaBot&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+I also took part in Ludum Dare 51 with a small team. We made a cat game. It's pretty janky, but fun if I do say so myself. We didn't do the best, didn't do the worst either.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgeboyo&repo=ldjam-51&theme=dark&count_private=true)](https://github.com/edgeboyo/ldjam-51)
-#
-Most other stuff here is generally quite small - I don't really have any other massive things I'm working on. 
-Most of my stuff is private by nature, it's usually small, scrappy little tools that were just picking up various little things and playing around with them.
 
 # Social Media/Contact
 Hi. This section is empty. I don't plan to change that anytime soon. Sorry.
